@@ -1,0 +1,15 @@
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.csproj.AssemblyReference.cache
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.AssemblyInfoInputs.cache
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.AssemblyInfo.cs
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.csproj.CoreCompileInputs.cache
+C:\Revature\LiamProject\RepositoryTest\bin\Debug\net6.0\RepositoryTest.exe
+C:\Revature\LiamProject\RepositoryTest\bin\Debug\net6.0\RepositoryTest.deps.json
+C:\Revature\LiamProject\RepositoryTest\bin\Debug\net6.0\RepositoryTest.runtimeconfig.json
+C:\Revature\LiamProject\RepositoryTest\bin\Debug\net6.0\RepositoryTest.dll
+C:\Revature\LiamProject\RepositoryTest\bin\Debug\net6.0\RepositoryTest.pdb
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.dll
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\refint\RepositoryTest.dll
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.pdb
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\RepositoryTest.genruntimeconfig.cache
+C:\Revature\LiamProject\RepositoryTest\obj\Debug\net6.0\ref\RepositoryTest.dll
